@@ -10,12 +10,12 @@ Cold chain disputes cost the pharmaceutical industry $35 billion annually. Centr
 
 ## Repositories
 
-| Repo | Description |
+| Repository | Description |
 |---|---|
-| [coldchain-core](https://github.com/april-gate/coldchain-core) | ZK consensus proof engine · Rust/Bellman · sensor simulation · Actix REST API |
-| [coldchain-programs](https://github.com/april-gate/coldchain-programs) | Solana on-chain programs · device registry · proof submission · Anchor + Pinocchio |
-| [coldchain-web](https://github.com/april-gate/coldchain-web) | Public website · operator dashboard · shipment verification portal |
-| [coldchain-engine](https://github.com/april-gate/coldchain-engine) | Proprietary consensus engine, ZK proof circuits, and hardware firmware · April Gate's core IP (private) |
+| [coldchain-programs](https://github.com/april-gate/coldchain-programs) | Solana on-chain programs · device registry · shipment lifecycle · proof submission |
+| [coldchain-core](https://github.com/april-gate/coldchain-core) | Reference protocol implementation · consensus types · simulation tooling · demonstration binary |
+| [coldchain-engine](https://github.com/april-gate/coldchain-engine) | April Gate's core intellectual property: tamper-evident shipment records coordinated across Solana and Filecoin · BFT consensus engine · ZK proof circuits · hardware firmware|
+| [coldchain-web](https://github.com/april-gate/coldchain-web) | Public website, operator dashboard, and shipment verification portal |
 
 ---
 
