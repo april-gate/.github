@@ -14,6 +14,7 @@ Cold chain disputes cost the pharmaceutical industry $35 billion annually. Centr
 |---|---|
 | [coldchain-programs](https://github.com/april-gate/coldchain-programs) | Solana on-chain programs · device registry · shipment lifecycle · proof submission |
 | [coldchain-core](https://github.com/april-gate/coldchain-core) | Reference protocol implementation · consensus types · simulation tooling · demonstration binary |
+| [coldchain-firmware](https://github.com/april-gate/coldchain-firmware) | Device firmware demonstrating April Gate's cold-chain attestation flow — sensor reading, hardware-backed signing, and on-chain submission to Solana |
 | [coldchain-engine](https://github.com/april-gate/coldchain-engine) | April Gate's core intellectual property: tamper-evident shipment records coordinated across Solana and Filecoin · BFT consensus engine · ZK proof circuits · hardware firmware|
 | [coldchain-web](https://github.com/april-gate/coldchain-web) | Public website, operator dashboard, and shipment verification portal |
 
